@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1599958035 source:c:\users\leode\desktop\tp1_calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"CalculosAritmeticos.h"
+
+1599956814 source:c:\users\leode\desktop\tp1_calculadora\calculosaritmeticos.c
+
+1599958057 c:\users\leode\desktop\tp1_calculadora\calculosaritmeticos.h
+
